@@ -8,6 +8,7 @@ Ici, on consigne les réponses des personnes qui n'utilisent pas l'appli du gouv
 - personne autant de moi ne l'a installée
 - je sais même pas ça quoi ça sert, j'ai rien suivi sur ça et personne autant de moi ne l'a
 - pas envie de donner mes données au gouvernement + je doute que ça serve a quelque chose 
+- niveau liberté/tracking ça me semble pas nickel
 
 ## 24/10/2020
 
